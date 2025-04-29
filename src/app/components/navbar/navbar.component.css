@@ -11,10 +11,11 @@ ul li {
     list-style: none;
     font-size: 20px;
     font-family: "Playfair Display", serif;
+    color: #fff;
     transition: 0.3s ease;
 }
 
 ul li:hover {
     cursor: pointer;
-    color: #fff;
+    opacity: 70%;
 }
