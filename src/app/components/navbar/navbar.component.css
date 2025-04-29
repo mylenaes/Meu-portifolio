@@ -19,3 +19,9 @@ ul li:hover {
     cursor: pointer;
     opacity: 70%;
 }
+
+.lista a {
+    text-decoration: none; 
+    color: inherit; 
+    display: block; 
+}
